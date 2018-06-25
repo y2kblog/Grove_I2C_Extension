@@ -15,7 +15,7 @@ NXP社の高ドライブ電流型のI2CバスバッファPCA9600Dを用いてI2C
 
 - <a href="https://www.switch-science.com/catalog/2376/">PCA9600D 高ドライブ電流I2Cバスバッファ基板</a>
 - Groveケーブル
-- ストレート結線のLANケーブル（**<font color="Red">※クロス結線のLANケーブルの場合VCCとGNDがショートするため使用しないでください</font>**）
+- ストレート結線のLANケーブル（**<font color="Red">※クロス結線のLANケーブルを使用するとVCCとGNDがショートするため使用しないでください</font>**）
 
 ## 回路図  
 
